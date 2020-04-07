@@ -1,0 +1,12 @@
+{
+  "name": "go-practice",
+  "version": "1.0.0",
+  "description": "Go practice!",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "twitter": "^1.7.1"
+  },
+  "devDependencies": {},
+  "author": "Bianca Silmaro",
+  "license": "ISC"
+}
